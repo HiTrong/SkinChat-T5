@@ -1,0 +1,62 @@
+/* Đặt ảnh nền cho toàn bộ trang */
+.stApp {
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.7),
+        rgba(255, 255, 255, 0.7)
+      ),
+      url("https://knowridge.b-cdn.net/wp-content/uploads/2024/04/New-nasal-spray-offers-hope-for-heart-rhythm-disorder.jpg"); /*sài ảnh background*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  
+  /* Ảnh nền cho sidebar */
+  [data-testid="stSidebar"] {
+    background-image: linear-gradient(
+        rgba(255, 255, 255, 0.5),
+        rgba(255, 255, 255, 0.5)
+      ),
+      url("https://i.pinimg.com/736x/f3/1b/83/f31b837f44a71084fc95ebb43af5651c.jpg"); /*sài ảnh optionmenu*/
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  
+  /* Đặt chữ ký ở giữa dưới cùng */
+  .signature {
+    position: fixed;
+    bottom: 20px; /* Khoảng cách từ dưới lên cho chữ ký */
+    left: 50%; /* Đặt ở giữa theo chiều ngang */
+    transform: translateX(-50%); /* Dịch chuyển sang trái để căn giữa */
+    z-index: 1000; /* Đảm bảo chữ ký nằm trên cùng */
+    color: black; /* Màu chữ */
+    font-size: 11px; /* Kích thước chữ */
+    font-family: Arial, sans-serif; /* Phông chữ */
+  }
+  
+  
+  /* Logo background */
+  .logo {
+    position: fixed;
+    bottom: 20px; /* Khoảng cách từ dưới lên */
+    right: 20px; /* Khoảng cách từ bên trái */
+    z-index: 1000; /* Đảm bảo logo nằm trên cùng */
+    width: 90px; /* Điều chỉnh kích thước logo */
+  }
+
+  /* Đặt chữ ký ở giữa dưới cùng */
+.sidebar-signature {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 1px;
+  color: #000000;
+  font-size: 13px;
+  font-family: Roboto, sans-serif;
+}
+
+.sidebar-padding {
+  padding-bottom: 100px;
+}
