@@ -1,0 +1,13 @@
+numpy
+pandas
+ipykernel
+tqdm
+matplotlib
+google-generativeai
+transformers
+tokenizers
+faiss-cpu
+rouge_score
+simplet5
+streamlit
+streamlit-option-menu
