@@ -131,7 +131,7 @@ Cải thiện ứng dụng với hệ thống luồng chạy như sau:
 Hệ thống này bao gồm:
 -	Cơ sở dữ liệu vector - **Faiss**: Lưu trữ dữ liệu huấn luyện dưới dạng vector để tăng tốc độ truy xuất cũng như tiện lại cho việc tìm kiếm và so sánh dữ liệu. Độ đo được sử dụng để truy xuất là cosine.
 -	Mô hình đánh giá câu hỏi: Sử dụng mô hình **Logistic Regression** với đầu vào là các chỉ số **F1**, **Rouge-1**, **Rouge-2**, **Rouge-L** giữa câu hỏi đầu vào và câu hỏi tương tự trong cơ sở dữ liệu.
--	Mô hình đánh giá câu trả lời: Sử dụng mô hình Gradient **Boosting** với đầu vào là các chỉ số **F1**, **Rouge-1**, **Rouge-2**, **Rouge-L** giữa câu trả lời đầu ra, câu trả lời tương tự trong cơ sở dữ liệu và câu hỏi đầu vào từ người dùng.
+-	Mô hình đánh giá câu trả lời: Sử dụng mô hình **Gradient Boosting** với đầu vào là các chỉ số **F1**, **Rouge-1**, **Rouge-2**, **Rouge-L** giữa câu trả lời đầu ra, câu trả lời tương tự trong cơ sở dữ liệu và câu hỏi đầu vào từ người dùng.
 
 Kết quả cải thiện:
 
