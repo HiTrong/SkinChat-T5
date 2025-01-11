@@ -1,0 +1,392 @@
+{
+    "Bệnh chốc": {
+        "Tên Chương": "Bệnh da nhiễm khuẩn",
+        "Keywords": ["bệnh chốc", "chốc"],
+        "img_folder": "./db/imagedb/benh_choc/",
+        "illustrate_folder": "./img/illustration/benh_choc/"
+    },
+    "Nhọt": {
+        "Tên Chương": "Bệnh da nhiễm khuẩn",
+        "Keywords": ["nhọt"],
+        "img_folder": "./db/imagedb/nhot/",
+        "illustrate_folder": "./img/illustration/nhot/"
+    },
+    "Viêm nang lông": {
+        "Tên Chương": "Bệnh da nhiễm khuẩn",
+        "Keywords": ["viêm nang lông", "nang lông viêm"],
+        "img_folder": "./db/imagedb/viem_nang_long/",
+        "illustrate_folder": "./img/illustration/viem_nang_long/"
+    },
+    "Hội chứng bong vảy da do tụ cầu": {
+        "Tên Chương": "Bệnh da nhiễm khuẩn",
+        "Keywords": ["bong vảy da", "tụ cầu", "hội chứng bong vảy"],
+        "img_folder": "./db/imagedb/hoi_chung_bong_vay_da_do_tu_cau/",
+        "illustrate_folder": "./img/illustration/hoi_chung_bong_vay_da_do_tu_cau/"
+    },
+    "Trứng cá": {
+        "Tên Chương": "Bệnh da nhiễm khuẩn",
+        "Keywords": ["trứng cá", "mụn trứng cá"],
+        "img_folder": "./db/imagedb/trung_ca/",
+        "illustrate_folder": "./img/illustration/trung_ca/"
+    },
+    "Bệnh lao da": {
+        "Tên Chương": "Bệnh da nhiễm khuẩn",
+        "Keywords": ["lao da", "bệnh lao da"],
+        "img_folder": "./db/imagedb/benh_lao_da/",
+        "illustrate_folder": "./img/illustration/benh_lao_da/"
+    },
+    "Bệnh phong": {
+        "Tên Chương": "Bệnh da nhiễm khuẩn",
+        "Keywords": ["bệnh phong", "phong"],
+        "img_folder": "./db/imagedb/benh_phong/",
+        "illustrate_folder": "./img/illustration/benh_phong/"
+    },
+    "Bệnh ghẻ": {
+        "Tên Chương": "Bệnh da do ký sinh trùng – côn trùng",
+        "Keywords": ["bệnh ghẻ", "ghẻ"],
+        "img_folder": "./db/imagedb/benh_ghe/",
+        "illustrate_folder": "./img/illustration/benh_ghe/"
+    },
+    "Lang ben": {
+        "Tên Chương": "Bệnh da do ký sinh trùng – côn trùng",
+        "Keywords": ["lang ben"],
+        "img_folder": "./db/imagedb/lang_ben/",
+        "illustrate_folder": "./img/illustration/lang_ben/"
+    },
+    "Bệnh da do nấm sợi": {
+        "Tên Chương": "Bệnh da do ký sinh trùng – côn trùng",
+        "Keywords": ["bệnh da do nấm sợi", "nấm sợi"],
+        "img_folder": "./db/imagedb/benh_da_do_nam_soi/",
+        "illustrate_folder": "./img/illustration/benh_da_do_nam_soi/"
+    },
+    "Bệnh da và niêm mạc do Candida": {
+        "Tên Chương": "Bệnh da do ký sinh trùng – côn trùng",
+        "Keywords": ["candida", "bệnh da do candida", "niêm mạc do candida"],
+        "img_folder": "./db/imagedb/benh_da_va_niem_mac_do_candida/",
+        "illustrate_folder": "./img/illustration/benh_da_va_niem_mac_do_candida/"
+    },
+    "Nấm tóc": {
+        "Tên Chương": "Bệnh da do ký sinh trùng – côn trùng",
+        "Keywords": ["nấm tóc", "tóc bị nấm"],
+        "img_folder": "./db/imagedb/nam_toc/",
+        "illustrate_folder": "./img/illustration/nam_toc/"
+    },
+    "Nấm móng": {
+        "Tên Chương": "Bệnh da do ký sinh trùng – côn trùng",
+        "Keywords": ["nấm móng", "móng bị nấm"],
+        "img_folder": "./db/imagedb/nam_mong/",
+        "illustrate_folder": "./img/illustration/nam_mong/"
+    },
+    "Viêm da tiếp xúc do côn trùng": {
+        "Tên Chương": "Bệnh da do ký sinh trùng – côn trùng",
+        "Keywords": ["viêm da tiếp xúc", "tiếp xúc do côn trùng"],
+        "img_folder": "./db/imagedb/viem_da_tiep_xuc_do_con_trung/",
+        "illustrate_folder": "./img/illustration/viem_da_tiep_xuc_do_con_trung/"
+    },
+    "Bệnh zona": {
+        "Tên Chương": "Bệnh da do vi rút",
+        "Keywords": ["bệnh zona", "zona"],
+        "img_folder": "./db/imagedb/benh_zona/",
+        "illustrate_folder": "./img/illustration/benh_zona/"
+    },
+    "Bệnh hạt cơm": {
+        "Tên Chương": "Bệnh da do vi rút",
+        "Keywords": ["bệnh hạt cơm", "hạt cơm"],
+        "img_folder": "./db/imagedb/benh_hat_com/",
+        "illustrate_folder": "./img/illustration/benh_hat_com/"
+    },
+    "U mềm lây": {
+        "Tên Chương": "Bệnh da do vi rút",
+        "Keywords": ["u mềm lây", "mềm lây"],
+        "img_folder": "./db/imagedb/u_mem_lay/",
+        "illustrate_folder": "./img/illustration/u_mem_lay/"
+    },
+    "Bệnh lupus ban đỏ": {
+        "Tên Chương": "Bệnh da tự miễn",
+        "Keywords": ["lupus ban đỏ", "lupus", "ban đỏ"],
+        "img_folder": "./db/imagedb/benh_lupus_ban_do/",
+        "illustrate_folder": "./img/illustration/benh_lupus_ban_do/"
+    },
+    "Viêm bì cơ": {
+        "Tên Chương": "Bệnh da tự miễn",
+        "Keywords": ["viêm bì cơ", "bì cơ viêm"],
+        "img_folder": "./db/imagedb/viem_bi_co/",
+        "illustrate_folder": "./img/illustration/viem_bi_co/"
+    },
+    "Pemphigus": {
+        "Tên Chương": "Bệnh da tự miễn",
+        "Keywords": ["pemphigus"],
+        "img_folder": "./db/imagedb/pemphigus/",
+        "illustrate_folder": "./img/illustration/pemphigus/"
+    },
+    "Bọng nước dạng pemphigus": {
+        "Tên Chương": "Bệnh da tự miễn",
+        "Keywords": ["bọng nước dạng pemphigus", "pemphigus bọng nước"],
+        "img_folder": "./db/imagedb/bong_nuoc_dang_pemphigus/",
+        "illustrate_folder": "./img/illustration/bong_nuoc_dang_pemphigus/"
+    },
+    "Bệnh viêm da dạng herpes của Duhring-Brocq": {
+        "Tên Chương": "Bệnh da tự miễn",
+        "Keywords": ["viêm da dạng herpes", "herpes Duhring-Brocq", "herpes"],
+        "img_folder": "./db/imagedb/benh_viem_da_dang_herpes_cua_duhring_brocq/",
+        "illustrate_folder": "./img/illustration/benh_viem_da_dang_herpes_cua_duhring_brocq/"
+    },
+    "Hội chứng Raynaud": {
+        "Tên Chương": "Bệnh da tự miễn",
+        "Keywords": ["hội chứng Raynaud", "Raynaud"],
+        "img_folder": "./db/imagedb/hoi_chung_raynaud/",
+        "illustrate_folder": "./img/illustration/hoi_chung_raynaud/"
+    },
+    "Viêm da cơ địa": {
+        "Tên Chương": "Bệnh da dị ứng – miễn dịch",
+        "Keywords": ["viêm da cơ địa", "cơ địa viêm da"],
+        "img_folder": "./db/imagedb/viem_da_co_dia/",
+        "illustrate_folder": "./img/illustration/viem_da_co_dia/"
+    },
+    "Viêm da tiếp xúc dị ứng": {
+        "Tên Chương": "Bệnh da dị ứng – miễn dịch",
+        "Keywords": ["viêm da tiếp xúc dị ứng", "tiếp xúc dị ứng"],
+        "img_folder": "./db/imagedb/viem_da_tiep_xuc_di_ung/",
+        "illustrate_folder": "./img/illustration/viem_da_tiep_xuc_di_ung/"
+    },
+    "Hội chứng DRESS": {
+        "Tên Chương": "Bệnh da dị ứng – miễn dịch",
+        "Keywords": ["hội chứng DRESS"],
+        "img_folder": "./db/imagedb/hoi_chung_dress/",
+        "illustrate_folder": "./img/illustration/hoi_chung_dress/"
+    },
+    "Hồng ban đa dạng": {
+        "Tên Chương": "Bệnh da dị ứng – miễn dịch",
+        "Keywords": ["hồng ban đa dạng", "đa dạng hồng ban"],
+        "img_folder": "./db/imagedb/hong_ban_da_dang/",
+        "illustrate_folder": "./img/illustration/hong_ban_da_dang/"
+    },
+    "Hội chứng Stevens-Johnson": {
+        "Tên Chương": "Bệnh da dị ứng – miễn dịch",
+        "Keywords": ["hội chứng Stevens-Johnson", "Stevens-Johnson"],
+        "img_folder": "./db/imagedb/hoi_chung_stevens_johnson/",
+        "illustrate_folder": "./img/illustration/hoi_chung_stevens_johnson/"
+    },
+    "Hội chứng Lyell": {
+        "Tên Chương": "Bệnh da dị ứng – miễn dịch",
+        "Keywords": ["hội chứng Lyell", "Lyell"],
+        "img_folder": "./db/imagedb/hoi_chung_lyell/",
+        "illustrate_folder": "./img/illustration/hoi_chung_lyell/"
+    },
+    "Sẩn ngứa": {
+        "Tên Chương": "Bệnh da dị ứng – miễn dịch",
+        "Keywords": ["sẩn ngứa", "ngứa sẩn"],
+        "img_folder": "./db/imagedb/san_ngua/",
+        "illustrate_folder": "./img/illustration/san_ngua/"
+    },
+    "Bệnh mày đay": {
+        "Tên Chương": "Bệnh da dị ứng – miễn dịch",
+        "Keywords": ["bệnh mày đay", "mày đay"],
+        "img_folder": "./db/imagedb/benh_may_day/",
+        "illustrate_folder": "./img/illustration/benh_may_day/"
+    },
+    "Viêm da dầu": {
+        "Tên Chương": "Bệnh đỏ da có vảy",
+        "Keywords": ["viêm da dầu", "da dầu viêm"],
+        "img_folder": "./db/imagedb/viem_da_dau/",
+        "illustrate_folder": "./img/illustration/viem_da_dau/"
+    },
+    "Vảy phấn hồng Gibert": {
+        "Tên Chương": "Bệnh đỏ da có vảy",
+        "Keywords": ["vảy phấn hồng Gibert", "vảy phấn hồng"],
+        "img_folder": "./db/imagedb/vay_phan_hong_gibert/",
+        "illustrate_folder": "./img/illustration/vay_phan_hong_gibert/"
+    },
+    "Bệnh vảy nến": {
+        "Tên Chương": "Bệnh đỏ da có vảy",
+        "Keywords": ["bệnh vảy nến", "vảy nến"],
+        "img_folder": "./db/imagedb/benh_vay_nen/",
+        "illustrate_folder": "./img/illustration/benh_vay_nen/"
+    },
+    "Á vảy nến và vảy phấn dạng Lichen": {
+        "Tên Chương": "Bệnh đỏ da có vảy",
+        "Keywords": ["á vảy nến", "vảy phấn dạng Lichen"],
+        "img_folder": "./db/imagedb/a_vay_nen_va_vay_phan_dang_lichen/",
+        "illustrate_folder": "./img/illustration/a_vay_nen_va_vay_phan_dang_lichen/"
+    },
+    "Đỏ da toàn thân": {
+        "Tên Chương": "Bệnh đỏ da có vảy",
+        "Keywords": ["đỏ da toàn thân", "toàn thân đỏ da"],
+        "img_folder": "./db/imagedb/do_da_toan_than/",
+        "illustrate_folder": "./img/illustration/do_da_toan_than/"
+    },
+    "Bệnh Lichen phẳng": {
+        "Tên Chương": "Bệnh đỏ da có vảy",
+        "Keywords": ["lichen phẳng", "bệnh Lichen phẳng"],
+        "img_folder": "./db/imagedb/benh_lichen_phang/",
+        "illustrate_folder": "./img/illustration/benh_lichen_phang/"
+    },
+    "Bệnh giang mai": {
+        "Tên Chương": "Bệnh lây truyền qua đường tình dục",
+        "Keywords": ["bệnh giang mai", "giang mai"],
+        "img_folder": "./db/imagedb/benh_giang_mai/",
+        "illustrate_folder": "./img/illustration/benh_giang_mai/"
+    },
+    "Bệnh lậu": {
+        "Tên Chương": "Bệnh lây truyền qua đường tình dục",
+        "Keywords": ["bệnh lậu", "lậu"],
+        "img_folder": "./db/imagedb/benh_lau/",
+        "illustrate_folder": "./img/illustration/benh_lau/"
+    },
+    "Viêm âm hộ-âm đạo do nấm Candida": {
+        "Tên Chương": "Bệnh lây truyền qua đường tình dục",
+        "Keywords": ["viêm âm hộ", "viêm âm đạo", "nấm Candida", "Candida"],
+        "img_folder": "./db/imagedb/viem_am_ho_am_dao_do_nam_candida/",
+        "illustrate_folder": "./img/illustration/viem_am_ho_am_dao_do_nam_candida/"
+    },
+    "Herpes sinh dục": {
+        "Tên Chương": "Bệnh lây truyền qua đường tình dục",
+        "Keywords": ["herpes sinh dục", "herpes"],
+        "img_folder": "./db/imagedb/herpes_sinh_duc/",
+        "illustrate_folder": "./img/illustration/herpes_sinh_duc/"
+    },
+    "Nhiễm Chlamydia trachomatis sinh dục-tiết niệu": {
+        "Tên Chương": "Bệnh lây truyền qua đường tình dục",
+        "Keywords": ["Chlamydia trachomatis", "nhiễm Chlamydia", "sinh dục-tiết niệu"],
+        "img_folder": "./db/imagedb/nhiem_chlamydia_trachomatis_sinh_duc_tiet_nieu/",
+        "illustrate_folder": "./img/illustration/nhiem_chlamydia_trachomatis_sinh_duc_tiet_nieu/"
+    },
+    "Viêm âm đạo do trùng roi": {
+        "Tên Chương": "Bệnh lây truyền qua đường tình dục",
+        "Keywords": ["viêm âm đạo", "trùng roi"],
+        "img_folder": "./db/imagedb/viem_am_dao_do_trung_roi/",
+        "illustrate_folder": "./img/illustration/viem_am_dao_do_trung_roi/"
+    },
+    "Bệnh sùi mào gà sinh dục": {
+        "Tên Chương": "Bệnh lây truyền qua đường tình dục",
+        "Keywords": ["bệnh sùi mào gà", "sùi mào gà", "sùi sinh dục"],
+        "img_folder": "./db/imagedb/benh_sui_vao_ga_sinh_duc/",
+        "illustrate_folder": "./img/illustration/benh_sui_vao_ga_sinh_duc/"
+    },
+    "Ung thư tế bào đáy": {
+        "Tên Chương": "U da",
+        "Keywords": ["ung thư tế bào đáy", "tế bào đáy ung thư"],
+        "img_folder": "./db/imagedb/ung_thu_te_bao_day/",
+        "illustrate_folder": "./img/illustration/ung_thu_te_bao_day/"
+    },
+    "Ung thư tế bào vảy": {
+        "Tên Chương": "U da",
+        "Keywords": ["ung thư tế bào vảy", "tế bào vảy ung thư"],
+        "img_folder": "./db/imagedb/ung_thu_te_bao_vay/",
+        "illustrate_folder": "./img/illustration/ung_thu_te_bao_vay/"
+    },
+    "Ung thư tế bào hắc tố": {
+        "Tên Chương": "U da",
+        "Keywords": ["ung thư tế bào hắc tố", "tế bào hắc tố ung thư"],
+        "img_folder": "./db/imagedb/ung_thu_te_bao_hac_to/",
+        "illustrate_folder": "./img/illustration/benh_peung_thu_te_bao_hac_tollagra/"
+    },
+    "U ống tuyến mồ hôi": {
+        "Tên Chương": "U da",
+        "Keywords": ["u ống tuyến mồ hôi", "ống tuyến mồ hôi"],
+        "img_folder": "./db/imagedb/u_ong_tuyen_mo_hoi/",
+        "illustrate_folder": "./img/illustration/u_ong_tuyen_mo_hoi/"
+    },
+    "Dày sừng lòng bàn tay, bàn chân di truyền": {
+        "Tên Chương": "Các bệnh da di truyền",
+        "Keywords": ["dày sừng lòng bàn tay", "dày sừng bàn chân", "di truyền"],
+        "img_folder": "./db/imagedb/day_sung_long_ban_tay_ban_chan_di_truyen/",
+        "illustrate_folder": "./img/illustration/day_sung_long_ban_tay_ban_chan_di_truyen/"
+    },
+    "Ly thượng bì bọng nước bẩm sinh": {
+        "Tên Chương": "Các bệnh da di truyền",
+        "Keywords": ["ly thượng bì bọng nước", "bọng nước bẩm sinh"],
+        "img_folder": "./db/imagedb/ly_thuong_bi_bong_nuoc_bam_sinh/",
+        "illustrate_folder": "./img/illustration/ly_thuong_bi_bong_nuoc_bam_sinh/"
+    },
+    "Bệnh vảy phấn đỏ nang lông": {
+        "Tên Chương": "Các bệnh da di truyền",
+        "Keywords": ["bệnh vảy phấn đỏ nang lông", "vảy phấn đỏ nang lông"],
+        "img_folder": "./db/imagedb/benh_vay_phan_do_nang_long/",
+        "illustrate_folder": "./img/illustration/benh_vay_phan_do_nang_long/"
+    },
+    "U xơ thần kinh": {
+        "Tên Chương": "Các bệnh da di truyền",
+        "Keywords": ["u xơ thần kinh", "xơ thần kinh"],
+        "img_folder": "./db/imagedb/u_xo_than_kinh/",
+        "illustrate_folder": "./img/illustration/u_xo_than_kinh/"
+    },
+    "Bệnh gai đen": {
+        "Tên Chương": "Các bệnh da di truyền",
+        "Keywords": ["bệnh gai đen", "gai đen"],
+        "img_folder": "./db/imagedb/benh_gai_den/",
+        "illustrate_folder": "./img/illustration/benh_gai_den/"
+    },
+    "Dị sừng nang lông": {
+        "Tên Chương": "Các bệnh da di truyền",
+        "Keywords": ["dị sừng nang lông", "sừng nang lông dị"],
+        "img_folder": "./db/imagedb/di_sung_nang_long/",
+        "illustrate_folder": "./img/illustration/di_sung_nang_long/"
+    },
+    "Bệnh vảy cá": {
+        "Tên Chương": "Các bệnh da di truyền",
+        "Keywords": ["bệnh vảy cá", "vảy cá"],
+        "img_folder": "./db/imagedb/benh_vay_ca/",
+        "illustrate_folder": "./img/illustration/benh_vay_ca/"
+    },
+    "Viêm da đầu chi-ruột": {
+        "Tên Chương": "Các bệnh da di truyền",
+        "Keywords": ["viêm da đầu chi", "viêm da ruột", "da đầu chi", "ruột"],
+        "img_folder": "./db/imagedb/viem_da_dau_chi_ruot/",
+        "illustrate_folder": "./img/illustration/viem_da_dau_chi_ruot/"
+    },
+    "Sarcoidosis": {
+        "Tên Chương": "Các bệnh da di truyền",
+        "Keywords": ["sarcoidosis"],
+        "img_folder": "./db/imagedb/sarcoidosis/",
+        "illustrate_folder": "./img/illustration/sarcoidosis/"
+    },
+    "Bệnh bạch biến": {
+        "Tên Chương": "Rối loạn sắc tố",
+        "Keywords": ["bệnh bạch biến", "bạch biến"],
+        "img_folder": "./db/imagedb/benh_bach_bien/",
+        "illustrate_folder": "./img/illustration/benh_bach_bien/"
+    },
+    "Sạm da": {
+        "Tên Chương": "Rối loạn sắc tố",
+        "Keywords": ["sạm da"],
+        "img_folder": "./db/imagedb/sam_da/",
+        "illustrate_folder": "./img/illustration/sam_da/"
+    },
+    "Rám má": {
+        "Tên Chương": "Rối loạn sắc tố",
+        "Keywords": ["rám má"],
+        "img_folder": "./db/imagedb/ram_ma/",
+        "illustrate_folder": "./img/illustration/ram_ma/"
+    },
+    "Bệnh Apthose": {
+        "Tên Chương": "Các bệnh da khác",
+        "Keywords": ["bệnh apthose", "apthose"],
+        "img_folder": "./db/imagedb/benh_apthose/",
+        "illustrate_folder": "./img/illustration/benh_apthose/"
+    },
+    "Bệnh da do ánh sáng": {
+        "Tên Chương": "Các bệnh da khác",
+        "Keywords": ["bệnh da do ánh sáng", "da do ánh sáng"],
+        "img_folder": "./db/imagedb/benh_da_do_anh_sang/",
+        "illustrate_folder": "./img/illustration/benh_da_do_anh_sang/"
+    },
+    "Bệnh porphyrin da": {
+        "Tên Chương": "Các bệnh da khác",
+        "Keywords": ["bệnh porphyrin da", "porphyrin da"],
+        "img_folder": "./db/imagedb/benh_porphyrin_da/",
+        "illustrate_folder": "./img/illustration/benh_porphyrin_da/"
+    },
+    "Bệnh da nghề nghiệp": {
+        "Tên Chương": "Các bệnh da khác",
+        "Keywords": ["bệnh da nghề nghiệp", "da nghề nghiệp"],
+        "img_folder": "./db/imagedb/benh_da_nghe_nghiep/",
+        "illustrate_folder": "./img/illustration/benh_da_nghe_nghiep/"
+    },
+    "Bệnh pellagra": {
+        "Tên Chương": "Các bệnh da khác",
+        "Keywords": ["bệnh pellagra", "pellagra"],
+        "img_folder": "./db/imagedb/benh_pellagra/",
+        "illustrate_folder": "./img/illustration/benh_pellagra/"
+    }
+}
